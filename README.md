@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
 
 [![dev.to badge](https://img.shields.io/badge/Linkedin-%40hazemessamsaleh-blue)](https://www.linkedin.com/in/hazemessamsaleh)
+[![dev.to badge](https://img.shields.io/badge/linkedin-hazemessamsaleh-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/hazemessamsaleh)
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
