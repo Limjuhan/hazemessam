@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->
 
+[https://img.shields.io/badge/Linkedin-%40hazemessamsaleh-blue](https://www.linkedin.com/in/hazemessamsaleh)
+
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a CS student at Mansoura Unversity.
