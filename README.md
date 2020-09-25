@@ -12,7 +12,7 @@ I'm a computer science student who is passionate about writing code, building so
 - 🔭 I’m currently a CS student at Mansoura Unversity.
 - 📚 I’m currently learning  backend development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) or [Gmail](mailto:hazemkwita123@gmail.com)
 
 <!--
 - 🤔 I’m looking for help with ...
