@@ -10,7 +10,7 @@
 I'm a computer science student who is passionate about writing code, building software, solving problems, automating stuff, and learnibg new technologies.
 
 - 🔭 I’m currently a CS student at Mansoura Unversity.
-- 📚 I’m currently learning  backend development using NodeJS, ExpressJS and MongoDB.
+- 📚 I’m currently learning  backend development using Python, Flask, Django, and Postgres.
 - 👯 I’m looking for a software development internship. 
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/hazemessamsaleh), [Gmail](mailto:hazemkwita123@gmail.com) or [Outlook](mailto:hazemkwita@outlook.com).
 
