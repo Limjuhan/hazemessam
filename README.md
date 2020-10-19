@@ -12,7 +12,7 @@ I'm a computer science student who is passionate about writing code, building so
 - 🔭 I’m currently a CS student at Mansoura Unversity.
 - 📚 I’m currently learning  backend development using Python, Flask, Django, and Postgres.
 - 👯 I’m looking for a software development internship. 
-- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/hazemessamsaleh), [Gmail](mailto:hazemkwita123@gmail.com) or [Outlook](mailto:hazemqwetta@outlook.com).
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/hazemessamsaleh), [Outlook](mailto:hazemqwetta@outlook.com) or [Gmail](mailto:hazemkwita123@gmail.com).
 
 <!--
 - 🤔 I’m looking for help with ...
